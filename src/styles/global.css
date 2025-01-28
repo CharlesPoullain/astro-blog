@@ -3,9 +3,9 @@
   https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
-
+/*
 :root {
-	--accent: #2337ff;
+	--accent: #6366f1;
 	--accent-dark: #000d8a;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
@@ -14,6 +14,15 @@
 	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
 	--box-shadow: 0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
 		0 16px 32px rgba(var(--gray), 33%);
+}*/
+:root {
+	--accent: #8e44ad;
+	--accent-dark: #6c1e91;
+	--black: 30, 25, 40;
+	--gray: 126, 100, 162;
+	--gray-light: 240, 235, 250;
+	--gray-dark: 44, 36, 59;
+	--gray-gradient: rgba(var(--gray-light), 60%), #f0f1f6;
 }
 @font-face {
 	font-family: 'Atkinson';
