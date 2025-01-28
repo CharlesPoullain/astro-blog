@@ -1,0 +1,27 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Salut !</h1>
+			<p>
+				Ici, je partage ma passion pour le développement web, avec un focus sur JavaScript, Laravel, et bien d’autres sujets liés à la programmation web. Vous y trouverez des astuces, des réflexions et des idées.
+				</p>
+			<p>
+				🌟 N'hésitez pas à explorer et à échanger avec moi !
+			</p>
+		</main>
+
+		<Footer />
+	</body>
+</html>
