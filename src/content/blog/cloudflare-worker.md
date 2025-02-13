@@ -2,7 +2,7 @@
 title: 'Cloudflare Worker x Notion API'
 description: 'Projet Cloudflare Worker x Notion API x d3'
 pubDate: 'Feb 12 2025'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/astro-blog/blog-placeholder-3.jpg'
 ---
 
 # Présentation du projet
