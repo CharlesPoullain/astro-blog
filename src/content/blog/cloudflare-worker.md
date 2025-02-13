@@ -242,6 +242,6 @@ onMounted(async () => {
 
 ```
 
-![rendu-cloudflare-notion](/rendu-notion-d3.png)
+![rendu-cloudflare-notion](/astro-blog/rendu-notion-d3.png)
 
 # Résultat
